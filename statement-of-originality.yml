@@ -1,18 +1,12 @@
 # adapted from https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
 
 # put *your* name here
-name:
+name: Sara Simionescu
 
 declaration: >-
   I declare that everything I have submitted in this assignment is entirely my
   own work, with the following exceptions:
-
-
-# add as many "name+comment" entries as necessary
-# (or remove it altogether if you haven't collaborated with anyone)
-collaboration:
-  - name:
-    comment: >-
+  - the arduino sensor input code, done with Antigravity & ChatGPT
       
 
 # add as many "url+licence+comment" entries as necessary
